@@ -1,4 +1,5 @@
-# [ESX/QB]Szmirfek-BoomBox    [Szmirfek]/[Kamilos] 
+# [ESX/QB]Szmirfek-BoomBox   
+# Skrypt Stworzony Przez [Szmirfek]/[Kamilos] 
 Skrypt Obsługuje ESX oraz QB-core 
 
 # Instrukcja 
